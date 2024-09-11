@@ -27,9 +27,13 @@ a {
     color: #fff;
 }
 
+/* #hero{
+    color: white;
+} */
+
 .background-hero {
     height: 100vh;
-    background-image: url(asset/img/Terraria.avif);
+    background-image: url(asset/img/maxresdefault.jpg  );
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
